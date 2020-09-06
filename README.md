@@ -1,4 +1,4 @@
-### Hi there 👋
+[![@billimarie's github stats](https://github-readme-stats.vercel.app/api?username=billimarie&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **billimarie/billimarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
