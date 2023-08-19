@@ -16,7 +16,7 @@ I'm back on GitHub for @buildspace S4.
 
 🧠 Next.js
 
-🌲 How to keep trees alive in the desert
+🌲 Blockchain (specifically Proof of Donation)
 
 ## Looking For
 
