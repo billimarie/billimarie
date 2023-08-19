@@ -1,16 +1,29 @@
+# Hi, I'm Billimarie.
+
+I'm back on GitHub for @buildspace S4.
+
+## My current projects
+
+🌱 Growing a forest in the desert
+
+🚌 Hosting glamping guests at our tiny house school bus
+
+📝 Free Poetry for people
+
+## Currently Learning
+
+💫 Framer Motion
+
+🧠 Next.js
+
+🌲 How to keep trees alive in the desert
+
+## Looking For
+
+💵 Fundraising Opportunities
+
+👨‍🏫 Mentorship in Social Impact Nonprofit
+
+🌿 People like you who believe in Climate Joy projects like [this](https://foreverystaratree.com)
+ 
 [![@billimarie's github stats](https://github-readme-stats.vercel.app/api?username=billimarie&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**billimarie/billimarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
