@@ -1,29 +1,13 @@
 # Hi, I'm Billimarie.
 
-I'm back on GitHub for @buildspace S4.
-
 ## My current projects
 
-🌱 Growing a forest in the desert
+🌱 Growing a Butterfly Forest in the desert: [For Every Star, A Tree](https://foreverystaratree.org)
 
-🚌 Hosting glamping guests at our tiny house school bus
-
-📝 Free Poetry for people
+🚌 Hosting glamping guests at our tiny house school bus: [The Starry Night Skoolie](https://www.airbnb.com/rooms/752085451221941310)
 
 ## Currently Learning
 
-💫 Framer Motion
-
-🧠 Next.js
-
-🌲 Blockchain (specifically Proof of Donation)
-
-## Looking For
-
-💵 Fundraising Opportunities
-
-👨‍🏫 Mentorship in Social Impact Nonprofit
-
-🌿 People like you who believe in Climate Joy projects like [this](https://foreverystaratree.com)
+🌲 Solana
  
 [![@billimarie's github stats](https://github-readme-stats.vercel.app/api?username=billimarie&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
